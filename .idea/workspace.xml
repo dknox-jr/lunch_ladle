@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a2273374-b602-4721-9a13-6fc240f38ec9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lunch_ladle" afterPath="$PROJECT_DIR$/lunch_ladle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lunch_ladle/scoop/models.py" afterPath="$PROJECT_DIR$/lunch_ladle/scoop/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lunch_ladle.iws" />
@@ -465,12 +464,18 @@
       <created>1421462536961</created>
       <updated>1421462536961</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated vendor views to print scan information.">
+      <created>1421474597513</created>
+      <updated>1421474597513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="8" width="1346" height="623" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32868525" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -506,6 +511,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="updated vendor views to print scan information." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated vendor views to print scan information." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
